@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#F7E1A1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#111111" />
+  <circle cx="600" cy="360" r="210" fill="url(#gold)" opacity="0.18" />
+  <path d="M500 520c-40-40-80-120-38-200 42-80 118-88 168-80 50 8 116 34 146 95 24 51 22 146-48 210-70 64-176 72-226-25z" fill="#fff" opacity="0.12"/>
+  <text x="600" y="440" text-anchor="middle" font-family="Inter, sans-serif" font-size="52" fill="#fff" opacity="0.9">MXOLISI</text>
+  <text x="600" y="500" text-anchor="middle" font-family="Inter, sans-serif" font-size="30" fill="#D4AF37" opacity="0.95">THE GREAT</text>
+  <rect x="75" y="630" width="1050" height="100" rx="45" fill="rgba(255,255,255,0.04)" />
+  <text x="600" y="690" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" fill="#fff" opacity="0.75">South African theatre-maker • TX Theatre • Tembisa</text>
+</svg>
