@@ -569,7 +569,7 @@ export default function App(){
         <h2 className="text-3xl font-playfair sparkle">Contact</h2>
         <div className="mt-6 max-w-xl text-gray-300 space-y-3">
           <div><strong>Email:</strong> info@thetxtheatre.com</div>
-          <div><strong>Email (Mxolski):</strong> masilelamxolisi@yahoo.com</div>
+          <div><strong>Email (Mxolisi):</strong> masilelamxolisi@yahoo.com</div>
           <div><strong>WhatsApp:</strong> 071 514 2823</div>
           <div><strong>Address:</strong> 10435 Winnie Mandela Zone 4, Tembisa</div>
         </div>
