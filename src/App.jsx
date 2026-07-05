@@ -357,7 +357,7 @@ function MalepaPage({ onBack }){
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Performance History</h2>
           <p className="mt-6 text-gray-300 leading-relaxed">Malepa premiered at TX Theatre in Tembisa around September 2022 and was presented as a major community and cultural event. It has been revived for multiple seasons due to audience demand.</p>
-          <p className="mt-4 text-gray-300 leading-relaxed">The show stands alongside works like LEINA, These Are Not My Shoes, Behind Van Vuuren's Farm and Adam's Ale, reflecting Mxolski's versatility as a visionary theatre-maker.</p>
+          <p className="mt-4 text-gray-300 leading-relaxed">The show stands alongside works like LEINA, These Are Not My Shoes, Behind Van Vuuren's Farm and Adam's Ale, reflecting Mxolisi's versatility as a visionary theatre-maker.</p>
         </section>
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
@@ -448,11 +448,11 @@ export default function App(){
   }
 
   if (page === 'leina') {
-    return <LeinaPage onBack={() => setPage('home')} />
+    return <LeinaPage onBack={() => setPage('shoes')} />
   }
 
   if (page === 'shoes') {
-    return <ShoesPage onBack={() => setPage('home')} />
+    return <ShoesPage onBack={() => setPage('vanvuuren')} />
   }
 
   if (page === 'vanvuuren') {
@@ -569,9 +569,9 @@ export default function App(){
         <h2 className="text-3xl font-playfair sparkle">Contact</h2>
         <div className="mt-6 max-w-xl text-gray-300 space-y-3">
           <div><strong>Email:</strong> info@thetxtheatre.com</div>
-          <div><strong>Email (Mxolski):</strong> mxolisi@thetxtheatre.com</div>
+          <div><strong>Email (Mxolski):</strong> masilelamxolisi@yahoo.com</div>
           <div><strong>WhatsApp:</strong> 071 514 2823</div>
-          <div><strong>Address:</strong> Near Moses Molelekwa Community Centre, 10435 Winnie Mandela Zone 4, Tembisa</div>
+          <div><strong>Address:</strong> 10435 Winnie Mandela Zone 4, Tembisa</div>
         </div>
       </Section>
 
