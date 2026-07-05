@@ -85,7 +85,7 @@ function AutobioPage({ onBack }){
             <div>
               <h2 className="text-3xl font-playfair sparkle text-amber-300">This is My Full Story</h2>
               <p className="mt-6 text-gray-300 leading-relaxed">I was born in the Madelakufa informal settlement in Tembisa, Ekurhuleni, Gauteng. Life was raw and unforgiving. My childhood carried deep wounds of absence and struggle.</p>
-              <p className="mt-4 text-gray-300 leading-relaxed">I remember walking in the middle of the night with my mother to family in Stama, her holding my hand and my younger brother Timbal's. Those walks taught me resilience.</p>
+              <p className="mt-4 text-gray-300 leading-relaxed">I remember walking in the middle of the night with my mother to family in Sthama, her holding my hand and my younger brother Themba's. Those walks taught me resilience.</p>
               <p className="mt-4 text-gray-300 leading-relaxed">At around nine or ten years old (early 2000s), I secretly joined the Rutanang Community Theatre Project (later part of Sizimele Art Foundation). Theatre became my sanctuary.</p>
             </div>
             <div className="overflow-hidden rounded-3xl bg-[#111] shadow-xl">
@@ -219,8 +219,8 @@ function LeinaPage({ onBack }){
           <div className="grid gap-8 lg:grid-cols-[0.9fr_0.7fr] items-start">
             <div>
               <h2 className="text-3xl font-playfair sparkle text-amber-300">Background and Creation</h2>
-              <p className="mt-6 text-gray-300 leading-relaxed">LEINA is a powerful, spiritually resonant theatre production written and directed by Mxolski "The Great" Masilela. Produced by The TX Theatre, it stands as one of his most celebrated works.</p>
-              <p className="mt-4 text-gray-300 leading-relaxed">The concept emerged shortly before the passing of his beloved mother. Mxolski describes it as a labour of love and spirituality, exploring ancestral connection and the spiritual power of names.</p>
+              <p className="mt-6 text-gray-300 leading-relaxed">LEINA is a powerful, spiritually resonant theatre production written and directed by Mxolisi "The Great" Masilela. Produced by The TX Theatre, it stands as one of his most celebrated works.</p>
+              <p className="mt-4 text-gray-300 leading-relaxed">The concept emerged shortly before the passing of his beloved mother. Mxolisi describes it as a labour of love and spirituality, exploring ancestral connection and the spiritual power of names.</p>
             </div>
             <div className="overflow-hidden rounded-3xl bg-[#111] shadow-xl">
               <img src="https://res.cloudinary.com/doaj3nv5i/image/upload/v1781125171/drbn5clwhy8fhhy9h4ys.jpg" alt="LEINA production image" className="w-full h-full object-cover" />
@@ -290,7 +290,7 @@ function ShoesPage({ onBack }){
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Production Details</h2>
-          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolski "The Great" Masilela. Key cast includes Tshwarelo Selolo, Mongezi Mabunda, Thabang Chauke, and Itumeleng Moeketsane in powerful ensemble performances.</p>
+          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolisi "The Great" Masilela. Key cast includes Tshwarelo Selolo, Mongezi Mabunda, Thabang Chauke, and Itumeleng Moeketsane in powerful ensemble performances.</p>
           <p className="mt-4 text-gray-300 leading-relaxed">Live music and ensemble performance are central to the play's emotional power, with musicians and performers creating a raw, immersive atmosphere throughout.</p>
           <p className="mt-4 text-gray-300 leading-relaxed">Run length: 50–70 minutes. Style: dramatic, musical, ritualistic and physically charged, with a deep focus on authenticity and community storytelling.</p>
         </section>
@@ -350,7 +350,7 @@ function MalepaPage({ onBack }){
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Creative Team</h2>
-          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolski "The Great" Masilela. Choreography by Sfiso "Bheseni" Botha with Muzi Shili. Music composition and direction by seasoned musicians and composers from the township.</p>
+          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolisi "The Great" Masilela. Choreography by Sfiso "Bheseni" Botha with Muzi Shili. Music composition and direction by seasoned musicians and composers from the township.</p>
           <p className="mt-4 text-gray-300 leading-relaxed">Produced by The TX Theatre in collaboration with Umzekelo Cultural Organisation, the production is praised for its technical excellence in lighting, sound and choreography.</p>
         </section>
 
@@ -362,7 +362,7 @@ function MalepaPage({ onBack }){
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Significance</h2>
-          <p className="mt-6 text-gray-300 leading-relaxed">Malepa exemplifies Mxolski's philosophy of theatre as holy ground, honoring African traditions while challenging misconceptions about spirituality in contemporary township life.</p>
+          <p className="mt-6 text-gray-300 leading-relaxed">Malepa exemplifies Mxolisi's philosophy of theatre as holy ground, honoring African traditions while challenging misconceptions about spirituality in contemporary township life.</p>
         </section>
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
@@ -408,7 +408,7 @@ function VanVuurenPage({ onBack }){
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Production Details</h2>
-          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolski "The Great" Masilela. Produced by The TX Theatre Hub, the production explores racial injustice, farmworker exploitation and the long shadow of colonialism and apartheid.</p>
+          <p className="mt-6 text-gray-300 leading-relaxed">Writer & Director: Mxolisi "The Great" Masilela. Produced by The TX Theatre Hub, the production explores racial injustice, farmworker exploitation and the long shadow of colonialism and apartheid.</p>
           <p className="mt-4 text-gray-300 leading-relaxed">Featured cast includes Gifter Ngobeni and Tshwarelo Selolo, bringing raw, emotionally charged performances to a work that is both urgent and deeply human.</p>
           <p className="mt-4 text-gray-300 leading-relaxed">Style: intense dramatic theatre with strong physicality, ritual undertones and a relentless focus on family trauma, resilience and the search for dignity.</p>
         </section>
@@ -416,7 +416,7 @@ function VanVuurenPage({ onBack }){
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
           <h2 className="text-3xl font-playfair sparkle text-amber-300">Performance History</h2>
           <p className="mt-6 text-gray-300 leading-relaxed">Performed at The TX Theatre in Tembisa and featured during Tembisa Theatre Week, the production also reached city audiences through Joburg Theatre and other major venues.</p>
-          <p className="mt-4 text-gray-300 leading-relaxed">It is part of Mxolski's broader work in township storytelling, standing alongside LEINA, These Are Not My Shoes and Malepa as a powerful political and social commentary.</p>
+          <p className="mt-4 text-gray-300 leading-relaxed">It is part of Mxolisi's broader work in township storytelling, standing alongside LEINA, These Are Not My Shoes and Malepa as a powerful political and social commentary.</p>
         </section>
 
         <section className="rounded-3xl bg-[#0f0f0f] p-10 shadow-xl shadow-black/40">
@@ -476,7 +476,7 @@ export default function App(){
           <div>
             <p className="text-sm uppercase tracking-[0.36em] text-gray-400">Autobio</p>
             <h2 className="text-4xl font-playfair sparkle text-amber-300">Meet The Great</h2>
-            <p className="mt-6 text-gray-300 leading-relaxed">My Name is Mxolski "The Great" Masilela. This is my full story — from Madelakufa to founding TX Theatre, building festivals, mentoring generations and healing communities through theatre.</p>
+            <p className="mt-6 text-gray-300 leading-relaxed">My Name is Mxolisi "The Great" Masilela. This is my full story — from Madelakufa to founding TX Theatre, building festivals, mentoring generations and healing communities through theatre.</p>
             <button type="button" onClick={() => setPage('autobio')} className="mt-8 inline-flex items-center gap-2 rounded-full bg-amber-300/10 px-6 py-3 text-amber-200 hover:bg-amber-300/20 transition">Full Story <span aria-hidden>→</span></button>
           </div>
           <div className="overflow-hidden rounded-3xl border border-white/10 shadow-xl">
@@ -496,7 +496,7 @@ export default function App(){
         </div>
         <div className="mt-10 rounded-3xl bg-white/5 p-8 border border-white/10 shadow-xl">
           <h3 className="text-3xl font-playfair sparkle text-amber-300">Tembisa Theatre Week</h3>
-          <p className="mt-4 text-gray-300 max-w-3xl">Annual flagship festival curated by Mxolski "The Great" Masilela through The TX Theatre. Click to explore the story and impact behind this township cultural movement.</p>
+          <p className="mt-4 text-gray-300 max-w-3xl">Annual flagship festival curated by Mxolisi "The Great" Masilela through The TX Theatre. Click to explore the story and impact behind this township cultural movement.</p>
           <button type="button" onClick={() => setPage('ttw')} className="mt-6 inline-flex items-center gap-2 rounded-full bg-amber-300/10 px-6 py-3 text-amber-200 hover:bg-amber-300/20 transition">Explore Festival <span aria-hidden>→</span></button>
         </div>
       </Section>
@@ -544,7 +544,7 @@ export default function App(){
                 <div className="text-2xl font-semibold text-white">Behind Van Vuuren's Farm</div>
                 <span className="rounded-full bg-amber-300/15 px-3 py-1 text-sm font-semibold text-amber-200 animate-pulse">Intense drama</span>
               </div>
-              <p className="mt-3 text-gray-300">A powerful drama by Mxolski "The Great" Masilela confronting land, justice, identity and the lingering wounds of history.</p>
+              <p className="mt-3 text-gray-300">A powerful drama by Mxolisi "The Great" Masilela confronting land, justice, identity and the lingering wounds of history.</p>
               <div className="mt-5 inline-flex items-center gap-2 text-amber-300">Watch story and video<span aria-hidden>→</span></div>
             </div>
           </button>
