@@ -569,13 +569,13 @@ export default function App(){
         <h2 className="text-3xl font-playfair sparkle">Contact</h2>
         <div className="mt-6 max-w-xl text-gray-300 space-y-3">
           <div><strong>Email:</strong> info@thetxtheatre.com</div>
-          <div><strong>Email (Mxolski):</strong> mxolski@thetxtheatre.com</div>
+          <div><strong>Email (Mxolski):</strong> mxolisi@thetxtheatre.com</div>
           <div><strong>WhatsApp:</strong> 071 514 2823</div>
           <div><strong>Address:</strong> Near Moses Molelekwa Community Centre, 10435 Winnie Mandela Zone 4, Tembisa</div>
         </div>
       </Section>
 
-      <footer className="py-8 text-center text-gray-400">Tembisa → The World · IG @mxolski_thegreat · @txtheatre</footer>
+      <footer className="py-8 text-center text-gray-400">Tembisa → The World · IG @mxolisi_thegreat · @txtheatre</footer>
     </div>
   )
 }
